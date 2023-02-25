@@ -1,0 +1,20 @@
+Dados do aluno
+
+-Primeiro Nome: André
+
+-Profissão: Qualidade de Software
+
+-Cidade: São Paulo e Peruíbe - SP
+
+-O que faz nas horas vaga: Manutenção de computadores, assisto streamings, jogos e games, acompanho cultura nerd 
+e gueek, alguma marcenaria, reparos domésticos, pequenas reformas, culinária e tento me exercitar.
+
+-Feedback sobre o curso Qualidade de Software: Excelente, estou aprendendo muito e melhor, 
+estou motivado a pesquisar e realizar outros cursos para meu aprimoramento.
+
+-Feedback sobre a plataforma de estudo da EBAC: Excelente, gostei muito do manuseio e funcionalidades 
+da plataforma.
+
+Obrigado!!!
+
+
