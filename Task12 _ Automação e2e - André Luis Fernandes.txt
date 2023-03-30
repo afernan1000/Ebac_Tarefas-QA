@@ -1,0 +1,12 @@
+Segue o link para os arquivos de testes para o exercício do módulo 12:
+
+https://github.com/afernan1000/Teste-Ebac-Shop-e2e
+
+Teste de compra ponta a ponta na Ebac Shop com:
+Comandos customizados
+Variáveis
+Fixture
+Page
+Validações
+
+Att,

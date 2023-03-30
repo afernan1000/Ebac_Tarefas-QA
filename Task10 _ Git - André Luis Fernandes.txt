@@ -1,0 +1,3 @@
+Segue o link para os arquivos no GitHub para o exercício do módulo 10:
+
+https://github.com/afernan1000/Tarefas_Ebac-QA/tree/main/Task10%20-%20Git

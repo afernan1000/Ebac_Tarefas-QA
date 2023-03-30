@@ -1,0 +1,14 @@
+Segue o link para os arquivos de testes para o exercício do módulo 11:
+
+https://github.com/afernan1000/Teste-Ebac-UI-NEW/tree/main/cypress/e2e/3-ebac-testes
+
+Recriei os testes:
+Login
+Pre-cadastro
+Produtos
+
+Adicionalmente os novos testes:
+Pre-cadastro c/ listaFaker
+Produtos-Plus
+
+Att,
